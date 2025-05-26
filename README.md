@@ -44,7 +44,7 @@ This project is a prototype for a **Multilingual Voice Chat Retrieval-Augmented 
 ├── retriever.py     # Document embedding + retrieval (FAISS)
 ├── generator.py     # Gemini-based answer generation
 ├── tts.py           # Coqui TTS for spoken responses
-├── main.py           # Interactive demo app
+├── main.py          # Interactive demo app
 ├── docs/            # Local document corpus
 ├── sample_data/     # Sample input/output audio
 └── README.md
