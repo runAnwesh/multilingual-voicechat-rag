@@ -19,7 +19,7 @@ This project is a prototype for a **Multilingual Voice Chat Retrieval-Augmented 
 1. **Clone the repo** and install dependencies:
    ```bash
    pip install -r requirements.txt
-````
+   ````
 
 2. **Set your Gemini API Key**:
 
